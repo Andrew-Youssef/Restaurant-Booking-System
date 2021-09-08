@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Restaurant_Booking_System-Andrew_Youssef
+</name>
+</assembly>
+<members>
+<member name="T:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Meat_Lover_s_Pizza">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Meat_Lover_s_Pizza1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Restaurant_Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Restaurant_Logo__Small_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Restaurant_Logo__Small_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Restaurant_Logo__Small_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Restaurant_Logo__Small_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Restaurant_Logo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Restaurant_Logo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Restaurant_Logo3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Restaurant_Logo4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Table_Layout___IST_200HR_Task_1_2019">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Table_Type_1__checked____IST_200HR_Task_1_2019">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Table_Type_1__unchecked____IST_200HR_Task_1_2019">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Table_Type_1__unchecked____IST_200HR_Task_1_20191">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Table_Type_2__checked____IST_200HR_Task_1_2019">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Table_Type_2__unchecked____IST_200HR_Task_1_2019">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Table_Type_3__checked____IST_200HR_Task_1_2019">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Table_Type_3__unchecked____IST_200HR_Task_1_2019">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Vegetarian_Pizza">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Restaurant_Booking_System_Andrew_Youssef.My.Resources.Resources.Vegetarian_Pizza1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
